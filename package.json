@@ -19,6 +19,6 @@
   },
   "homepage": "https://github.com/kristophesankar/quotesdb#readme",
   "dependencies": {
-    "json-server": "^0.15.1"
+    "json-server": "^0.17.1"
   }
 }
